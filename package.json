@@ -8,9 +8,6 @@
     "start": "next start --openssl-legacy-provider start",
     "lint": "next lint"
   },
-  "engines": {
-    "node": ">=v16.20.0"
-  },
   "dependencies": {
     "@chakra-ui/react": "^1.6.8",
     "@emotion/react": "^11.4.1",
